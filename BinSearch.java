@@ -7,6 +7,7 @@ public class BinSearch {
         final long duration = System.currentTimeMillis() - startTime;
         System.out.println("Execution time:" + duration);
         System.out.println(d);
+        System.out.println("Updated this message in DEV branch");
     }
 
     public static int binSearch(int[] arr, int x) {
